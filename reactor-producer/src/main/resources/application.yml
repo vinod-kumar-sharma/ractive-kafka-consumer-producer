@@ -1,0 +1,10 @@
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+
+FAKE_PRODUCER_DTO_TOPIC: demo-topic
+
+logging:
+  level:
+    in:
+      vinodsharma: info
